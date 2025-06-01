@@ -34,3 +34,6 @@ This project is a custom-built **Image Slider** created using **HTML**, **CSS**,
 ## 🔗 Live Preview
 
 [Click to View Project](https://kajuu1712.github.io/GWING_Week3_Task/)
+
+## Screenshot :
+![Screenshot (55)](https://github.com/user-attachments/assets/e43cf9f9-3b54-4d3a-adb8-3ae838cb75db)
